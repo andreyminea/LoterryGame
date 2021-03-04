@@ -1,0 +1,17 @@
+P:\CSharp projects\Lottery\bin\Release\netcoreapp3.1\Lottery.exe
+P:\CSharp projects\Lottery\bin\Release\netcoreapp3.1\Lottery.deps.json
+P:\CSharp projects\Lottery\bin\Release\netcoreapp3.1\Lottery.runtimeconfig.json
+P:\CSharp projects\Lottery\bin\Release\netcoreapp3.1\Lottery.runtimeconfig.dev.json
+P:\CSharp projects\Lottery\bin\Release\netcoreapp3.1\Lottery.dll
+P:\CSharp projects\Lottery\bin\Release\netcoreapp3.1\Lottery.pdb
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.csprojAssemblyReference.cache
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.HistoryView.resources
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.LotteryWindow.resources
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.PlayForm.resources
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.csproj.GenerateResource.cache
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.AssemblyInfoInputs.cache
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.AssemblyInfo.cs
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.csproj.CoreCompileInputs.cache
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.dll
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.pdb
+P:\CSharp projects\Lottery\obj\Release\netcoreapp3.1\Lottery.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+P:\CSharp projects\Published\Lottery.exe
+P:\CSharp projects\Published\Lottery.dll
+P:\CSharp projects\Published\Lottery.deps.json
+P:\CSharp projects\Published\Lottery.runtimeconfig.json
+P:\CSharp projects\Published\Lottery.pdb
